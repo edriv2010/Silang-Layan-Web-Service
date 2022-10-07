@@ -1,0 +1,9 @@
+E:\Silang Layan Web Service\obj\Debug\Silang Layan Web Service.csprojResolveAssemblyReference.cache
+E:\Silang Layan Web Service\bin\Silang Layan Web Service.dll
+E:\Silang Layan Web Service\bin\Silang Layan Web Service.pdb
+E:\Silang Layan Web Service\bin\DocumentFormat.OpenXml.dll
+E:\Silang Layan Web Service\bin\MySql.Data.dll
+E:\Silang Layan Web Service\bin\Newtonsoft.Json.dll
+E:\Silang Layan Web Service\bin\Oracle.ManagedDataAccess.dll
+E:\Silang Layan Web Service\obj\Debug\Silang Layan Web Service.dll
+E:\Silang Layan Web Service\obj\Debug\Silang Layan Web Service.pdb
